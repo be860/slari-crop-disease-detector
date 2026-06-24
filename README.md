@@ -1,0 +1,1 @@
+# slari-crop-disease-detector
